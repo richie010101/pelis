@@ -1,0 +1,38 @@
+
+.contenedor{
+    width: 100%; /* Ancho deseado del div */
+    height: 300px; /* Alto deseado del div */
+    position: relative;
+  }
+
+  .contenedor img{
+    width: 50%; /* La imagen ocupará todo el ancho del div */
+    height: auto; /* La altura se ajustará automáticamente para mantener la proporción */
+    position: absolute;
+    top: 50%; /* Centramos verticalmente la imagen */
+    left: 50%; /* Centramos horizontalmente la imagen */
+    transform: translate(-50%, -50%); /* Ajustamos la posición al centro */
+  }
+  .carousel-item{
+    height: 400px !important;
+  }
+
+  .carousel-item img{
+    position: relative;
+    width: 80% !important ;/* La imagen ocupará todo el ancho del div */
+    height: 100%!important ; /* La altura se ajustará automáticamente para mantener la proporción */
+    /*top: 50% !important ; /* Centramos verticalmente la imagen */
+    left: 10% !important ; /* Centramos horizontalmente la imagen */
+  }
+
+  @font-face {
+    font-family: light;
+    src: url(fuente1.otf);
+  }
+
+  @font-face {
+    font-family: info;
+    src: url(fuente2.ttf);
+  }
+
+  
