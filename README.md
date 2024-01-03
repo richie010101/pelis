@@ -72,7 +72,6 @@ Por lo tanto, ten en cuenta que este proyecto puede contener limitaciones o no s
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, por favor, crea un pull request explicando los cambios propuestos.
 
-Contacto
 Para más información o contacto:
 
-Ricardo Jesus Reyes Munguia en mi gut hub
+- Ricardo Jesus Reyes Munguia - [Perfil GitHub](https://github.com/richie010101)
